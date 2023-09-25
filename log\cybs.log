@@ -46,3 +46,27 @@
 2023-09-25T21:18:48.187Z - info: signature : keyid="08c94330-f618-42a3-b09d-e1e43be5efda", algorithm="HmacSHA256", headers="host date (request-target) digest v-c-merchant-id", signature="3vLzsWP0WK8i5Iwropn+J46CccB+w/WKvjj0rdCDvWo="
 2023-09-25T21:18:48.187Z - info: User-Agent : Mozilla/5.0
 2023-09-25T21:18:48.187Z - info: END > =========================================
+2023-09-25T21:26:08.784Z - info: START > =======================================
+2023-09-25T21:26:08.784Z - warn: Entered log directory does not exists. Taking default log directory ./log
+2023-09-25T21:26:08.785Z - info: Authentication Type : http_signature
+2023-09-25T21:26:08.785Z - info: Request Type : POST
+2023-09-25T21:26:08.787Z - info: signatureHeader : keyid="08c94330-f618-42a3-b09d-e1e43be5efda", algorithm="HmacSHA256", headers="host date (request-target) digest v-c-merchant-id", signature="t0i7TUbt4JfZ8e8dF6IT9RAo4vDRyH2h02ROdyz84L0="
+2023-09-25T21:26:08.788Z - info: digest : SHA-256=iC+gdebjz3OLHhs0kxqHebxTYMSZiS5+yLtTClf9CQI=
+2023-09-25T21:26:08.788Z - info: v-c-merchant-id : testrest
+2023-09-25T21:26:08.788Z - info: date : Mon, 25 Sep 2023 21:26:08 GMT
+2023-09-25T21:26:08.788Z - info: host : apitest.cybersource.com
+2023-09-25T21:26:08.788Z - info: signature : keyid="08c94330-f618-42a3-b09d-e1e43be5efda", algorithm="HmacSHA256", headers="host date (request-target) digest v-c-merchant-id", signature="t0i7TUbt4JfZ8e8dF6IT9RAo4vDRyH2h02ROdyz84L0="
+2023-09-25T21:26:08.788Z - info: User-Agent : Mozilla/5.0
+2023-09-25T21:26:08.788Z - info: END > =========================================
+2023-09-25T21:26:09.617Z - info: START > =======================================
+2023-09-25T21:26:09.617Z - warn: Entered log directory does not exists. Taking default log directory ./log
+2023-09-25T21:26:09.617Z - info: Authentication Type : http_signature
+2023-09-25T21:26:09.617Z - info: Request Type : POST
+2023-09-25T21:26:09.617Z - info: signatureHeader : keyid="08c94330-f618-42a3-b09d-e1e43be5efda", algorithm="HmacSHA256", headers="host date (request-target) digest v-c-merchant-id", signature="OBqDTlnviWd0Vr/5JIRzo0nX1GirYwLEdf+G59elYCI="
+2023-09-25T21:26:09.617Z - info: digest : SHA-256=iC+gdebjz3OLHhs0kxqHebxTYMSZiS5+yLtTClf9CQI=
+2023-09-25T21:26:09.617Z - info: v-c-merchant-id : testrest
+2023-09-25T21:26:09.617Z - info: date : Mon, 25 Sep 2023 21:26:09 GMT
+2023-09-25T21:26:09.617Z - info: host : apitest.cybersource.com
+2023-09-25T21:26:09.617Z - info: signature : keyid="08c94330-f618-42a3-b09d-e1e43be5efda", algorithm="HmacSHA256", headers="host date (request-target) digest v-c-merchant-id", signature="OBqDTlnviWd0Vr/5JIRzo0nX1GirYwLEdf+G59elYCI="
+2023-09-25T21:26:09.617Z - info: User-Agent : Mozilla/5.0
+2023-09-25T21:26:09.617Z - info: END > =========================================
