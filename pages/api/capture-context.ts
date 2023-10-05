@@ -21,7 +21,7 @@ export default async function handler(_: undefined, res: NextApiResponse) {
   const instance = new cybersourceRestApi.KeyGenerationApi(configObj);
   const request = new cybersourceRestApi.GeneratePublicKeyRequest();
   request.encryptionType = "RsaOaep256";
-  request.targetOrigin = "https://cybersource-demo-react.vercel.app";
+  request.targetOrigin = process.env.TARGET_ORIGIN;
   const opts: any = [];
   opts["format"] = "JWT";
 
